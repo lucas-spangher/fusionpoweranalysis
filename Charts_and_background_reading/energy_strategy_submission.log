@@ -1,0 +1,551 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  7 OCT 2017 18:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**energy_strategy_submission.tex
+(./energy_strategy_submission.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+(./energy_strategy_submission.spl)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `energy_strategy_submission.spl'.
+
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip47
+\multirow@cntb=\count95
+\multirow@dima=\skip48
+\bigstrutjot=\dimen109
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen110
+\extrarowheight=\dimen111
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+\TY@count=\count96
+\TY@linewidth=\dimen112
+\tymin=\dimen113
+\tymax=\dimen114
+\TY@tablewidth=\dimen115
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count97
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box30
+\rot@mess@toks=\toks19
+)
+\urlauthor{lucas_spangher@berkeley.edu}{Ryan Umstattd}
+\urlauthor{scott.vitter@utexas.edu}{Ryan Umstattd}
+\urlauthor{ryan.umstattd@hq.doe.gov}{Ryan Umstattd}
+(./energy_strategy_submission.aux)
+\openout1 = `energy_strategy_submission.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen116
+\scratchbox=\box31
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen117
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Missing character: There is no ‚ in font cmr17!
+Missing character: There is no Ä in font cmr17!
+Missing character: There is no ô in font cmr17!
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ì in font cmti10!
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ì in font cmti10!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+ [1
+
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [3]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [4] [5]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+[6]
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no ± in font cmr12!
+ [7] [8]
+Overfull \hbox (4.62183pt too wide) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 duced in pro-por-tion to the preva-lence of fu-sion power plant
+s. Once technology-
+ []
+
+[9] [10] [11]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ <mainFig.png, id=53, 624.3325pt x 625.33624pt>
+File: mainFig.png Graphic file (type png)
+ <use mainFig.png>
+Package pdftex.def Info: mainFig.png used on input line 185.
+(pdftex.def)             Requested size: 218.51964pt x 218.87096pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+[12] [13 <./mainFig.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <Fig4_4.png, id=63, 500.87125pt x 249.93375pt>
+File: Fig4_4.png Graphic file (type png)
+
+<use Fig4_4.png>
+Package pdftex.def Info: Fig4_4.png used on input line 200.
+(pdftex.def)             Requested size: 175.30756pt x 87.47812pt.
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 514| 
+ []
+
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 559| 
+ []
+
+
+Overfull \hbox (10.49818pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 1801| 
+ []
+
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 548| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 1457| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 3311| 
+ []
+
+
+Overfull \hbox (10.49818pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 8106| 
+ []
+
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 515| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 2573| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 7819| 
+ []
+
+
+Overfull \hbox (16.37312pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 12908| 
+ []
+
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 437| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 1024| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 1991| 
+ []
+
+
+Overfull \hbox (10.49818pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 3704| 
+ []
+
+
+Overfull \hbox (7.62482pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 481| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 1426| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 4036| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 8741| 
+ []
+
+
+Overfull \hbox (16.37312pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 15289| 
+ []
+
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 525| 
+ []
+
+
+Overfull \hbox (7.22356pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 970| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 2149| 
+ []
+
+
+Overfull \hbox (10.49818pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 4130| 
+ []
+
+
+Overfull \hbox (7.62482pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 507| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 1472| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 4214| 
+ []
+
+
+Overfull \hbox (13.0985pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 9815| 
+ []
+
+
+Overfull \hbox (16.37312pt too wide) in paragraph at lines 219--219
+ []\OT1/cmr/m/n/12 17603| 
+ []
+
+
+Overfull \hbox (21.15758pt too wide) in paragraph at lines 219--220
+ [] 
+ []
+
+[14 <./Fig4_4.png>] [15]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [16] <Fig4_5.png, id=74, 625.33624pt x 335.2525pt>
+File: Fig4_5.png Graphic file (type png)
+
+<use Fig4_5.png>
+Package pdftex.def Info: Fig4_5.png used on input line 235.
+(pdftex.def)             Requested size: 312.66736pt x 167.62584pt.
+ [17 <./Fig4_5.png>] [18]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+<Fig4_1.png, id=84, 925.4575pt x 461.725pt>
+File: Fig4_1.png Graphic file (type png)
+ <use Fig4_1.png>
+Package pdftex.def Info: Fig4_1.png used on input line 273.
+(pdftex.def)             Requested size: 323.91498pt x 161.60617pt.
+ [19]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [20 <./Fig4_1.png>] <Fig4_2.png, id=93, 956.57375pt x 569.12625pt>
+File: Fig4_2.png Graphic file (type png)
+ <use Fig4_2.png>
+Package pdftex.def Info: Fig4_2.png used on input line 289.
+(pdftex.def)             Requested size: 334.80583pt x 199.19717pt.
+ [21 <./Fig4_2.png>] <Fig4_2b.png, id=98, 928.46875pt x 463.7325pt>
+File: Fig4_2b.png Graphic file (type png)
+ <use Fig4_2b.png>
+Package pdftex.def Info: Fig4_2b.png used on input line 298.
+(pdftex.def)             Requested size: 324.96893pt x 162.30879pt.
+
+<Fig4_3.png, id=99, 940.51375pt x 510.90875pt>
+File: Fig4_3.png Graphic file (type png)
+ <use Fig4_3.png>
+Package pdftex.def Info: Fig4_3.png used on input line 299.
+(pdftex.def)             Requested size: 329.18474pt x 178.82074pt.
+ [22] [23 <./Fig4_2b.png> <./Fig4_3.png>] (./energy_strategy_submission.aux) ) 
+Here is how much of TeX's memory you used:
+ 2816 strings out of 492995
+ 37179 string characters out of 6132704
+ 111844 words of memory out of 5000000
+ 6300 multiletter control sequences out of 15000+600000
+ 12490 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,13n,30p,1756b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+<
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on energy_strategy_submission.pdf (23 pages, 1416939 bytes).
+PDF statistics:
+ 166 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
